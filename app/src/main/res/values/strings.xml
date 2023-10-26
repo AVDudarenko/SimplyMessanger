@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimplyMessanger</string>
+    <string name="send_message_text">Send Message</string>
+    <string name="message_hint_text">Message</string>
+    <string name="message_title">Your Message:</string>
+    <string name="message_text">Message</string>
+</resources>
